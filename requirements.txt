@@ -9,3 +9,5 @@ uvicorn
 matplotlib
 tensorflow
 scikit-learn
+python-dotenv
+influxdb-client
